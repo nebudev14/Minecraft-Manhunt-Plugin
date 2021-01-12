@@ -1,4 +1,4 @@
-package me.unshifting.manhuntv2;
+package manhuntv2;
 
 import java.util.ArrayList;
 import java.util.Collections;
