@@ -1,0 +1,7 @@
+main: me.unshifting.manhuntv2.Main
+name: ManhuntV2
+version: 1.0
+author: unshifting
+
+commands:
+   runner:
